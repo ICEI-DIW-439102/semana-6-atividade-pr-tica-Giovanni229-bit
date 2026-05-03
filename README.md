@@ -24,4 +24,4 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 ![alt text](Mobile1.png).
 ![alt text](Mobile2.png).
 
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer, recarregue a página antes de tirar o print. 
