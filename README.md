@@ -9,18 +9,19 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Giovanni
+- Matricula: 908174
+- Proposta de projeto escolhida: Pessoas e produções
+- Breve descrição sobre seu projeto: O projeto aborda sobre pessoas históricas, seus feitos e também sobre outros fatos históricos.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](Desktop1.png).
+ ![alt text](Desktop2.png).
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](Mobile1.png).
+![alt text](Mobile2.png).
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 

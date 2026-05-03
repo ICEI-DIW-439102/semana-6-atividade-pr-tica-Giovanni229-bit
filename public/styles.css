@@ -1,0 +1,278 @@
+*{
+
+    box-sizing: border-box;
+
+    margin: 0;
+
+padding: 0;
+
+}
+
+body {
+
+font-family: "Georgia", serif;
+background-color: #f2e8d5;
+color: #4b3621;
+}
+
+.Principal{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-color: #f2e8d5;
+
+    color: #000000;
+
+    padding: 20px 20px;
+
+    border-radius: 45px;
+
+    border: 2px solid #3e2723;
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+}
+
+header {
+
+    width: 100%;
+
+    padding: 40px 20px;
+
+    background-color: #3e2723;
+
+    border-bottom: 5px double #d4af37;
+
+}
+.cabeçalho {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+}
+.relogio-logo {
+
+    width: 160px;
+    filter: sepia (0.75);
+
+}
+.slogan {
+
+    border: 3px solid #d4af37;
+
+    padding: 20px 40px;
+
+    border-radius: 50px;
+
+    background-color: #fff;
+
+    margin: 20px;
+
+}
+
+.barra-pesquisa {
+
+    width: 100%;
+
+    margin: 40px 0;
+
+    text-align: center;
+
+}
+
+.pesquisa-wrapper {
+
+    display: inline-flex;
+
+    width: 720px;
+
+    border: 2px solid #3e2723;
+
+    border-radius: 20px;
+
+    overflow: hidden;
+
+}
+
+.label-pesquisa {
+
+    background-color: #1a237e;
+
+    color: white;
+
+    padding: 12px 10px;
+
+    display: inline-flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-weight: bold;
+
+    white-space: nowrap;
+
+}
+.filtros {
+    padding: 20px 5%;
+}
+.btn-azul {
+    background-color: #a0c4ff;
+    border: 2px solid #3e2723;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+
+}.btn-azul:hover {
+    background-color: #1a237e;
+    color: white;
+}
+ .pesquisa-wrapper input {
+
+    padding: 12px 20px;
+
+    border: none;
+
+    outline: none;
+
+    font-size: 1.1rem;
+
+    background-color: #fff;
+
+    width: 100%;
+
+    min-width: 0;
+
+}
+
+main {
+
+    width: 100%;
+
+    padding: 0 5%;
+
+}
+
+.titulo-secao {
+
+    padding: 15px 40px;
+
+    border-radius: 5px;
+
+    margin: 50px 0 30px 0;
+
+    color: white;
+
+    display: inline-block;
+
+}
+
+.sepia { background-color: #8d6e63; }
+
+.marrom { background-color: #5d4037; }
+
+.secao-grande {
+
+    background-color: #fffaf0;
+
+    border: 2px solid #8d6e63;
+
+    padding: 40px;
+
+    margin-bottom: 40px;
+
+    border-radius: 15px;
+
+}
+.avatar-circular {
+
+    width: 180px;
+
+    height: 180px;
+
+    border-radius: 50%;
+
+    border: 5px solid #3e2723;
+
+    object-fit: cover;
+
+    margin-right: 40px;
+
+    margin-bottom: 20px;
+
+}
+
+.fato-full {
+
+    background-color: #fffaf0;
+
+    border: 2px solid #5d4037;
+
+    margin-bottom: 50px;
+
+    border-radius: 15px;
+
+    text-align: center;
+
+    overflow: hidden;
+
+}
+
+.imagem-full {
+
+    width: 100%;
+
+    height: 500px;
+
+    object-fit: cover;
+
+    border-bottom: 3px solid #5d4037;
+
+}
+
+.texto-container h3 {
+
+    font-size: 2rem;
+
+    margin-bottom: 15px;
+
+}
+.texto-container p {
+
+    font-size: 1.2rem;
+
+    line-height: 1.8;
+
+}
+footer {
+
+    text-align: center;
+
+    padding: 40px;
+
+    background-color: #3e2723;
+
+    color: #d4af37;
+}
+@media (max-width: 767px) {
+    .relogio-logo {
+        width: 120px;
+        margin-bottom: 20px;
+    }
+    .slogan {
+        padding: 15px 30px;
+        font-size: 1rem;
+    }
+    .imagem-full {
+        height: 200px;
+    }
+}
