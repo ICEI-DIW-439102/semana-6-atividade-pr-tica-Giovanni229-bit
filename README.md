@@ -12,7 +12,7 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 - Nome: Giovanni
 - Matricula: 908174
 - Proposta de projeto escolhida: Pessoas e produções
-- Breve descrição sobre seu projeto: O projeto aborda sobre pessoas históricas, seus feitos e também sobre outros fatos históricos.
+- Breve descrição sobre seu projeto: O projeto aborda sobre pessoas históricas, seus feitos e também sobre outros fatos históricos que aconteceram no mundo.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
